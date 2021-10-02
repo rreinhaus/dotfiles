@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = r.reinhausÂÂ@gmail.com
+	name = Richard Reinhaus
